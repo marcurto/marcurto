@@ -25,7 +25,7 @@ So, who I am now?
 ```
 import React, { Component } from "react";
 
-class App extends Component {
+class Mar extends Component {
 	state = {
 		technologies: ["React", "JavaScript", "HTML", "CSS", "Node.js", "Express.js"],
 		tools: ["Git", "GitHub", "MongoDB", "Heroku", "Postman"],
@@ -62,7 +62,7 @@ class App extends Component {
 
 }
 
-export default App;
+export default Mar;
 ```
 
 
@@ -71,4 +71,4 @@ export default App;
 
 
 
--->
+
