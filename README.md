@@ -12,7 +12,7 @@ Some time ago, when I was doing my master's internship, I was asked to create a 
 
 #### Covid-19 :mask:
 
-I was working from home and someone said to me: Hey, I've been offered a project, *would you be interested in doing the layout?* Obviously yes (you can check it on www.homebid.es :wink:). And since then, there was no going back. I steeled myself and left my previous job, a bit adrift, but with a clear destination. To schedule! So thank you so much someone.:sparkles:
+I was working from home and someone said to me: Hey, I've been offered a project, *would you be interested in doing the layout?* Obviously yes (you can check it on www.homebid.es :wink:). And since then, there was no going back. I steeled myself and left my previous job, a bit adrift, but with a clear destination. Let's programming! So thank you so much someone.:sparkles:
 
 
 
